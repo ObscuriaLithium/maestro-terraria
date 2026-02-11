@@ -1,0 +1,8 @@
+{
+  "priority": 0,
+  "layer": "underscore",
+  "sound_event": "terraria:music.journeys_beginning",
+  "condition": {
+    "type": "maestro:always"
+  }
+}

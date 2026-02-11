@@ -1,0 +1,21 @@
+{
+  "priority": 20,
+  "layer": "underscore",
+  "sound_event": "terraria:music.jungle_night",
+  "condition": {
+    "type": "maestro:all_of",
+    "terms": [
+      {
+        "type": "maestro:day_cycle",
+        "is_night": true
+      },
+      {
+        "type": "maestro:biome_tag",
+        "values": [
+          "c:is_jungle",
+          "c:jungle"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "priority": 100,
+  "layer": "underscore",
+  "sound_event": "terraria:music.underworld",
+  "condition": {
+    "type": "maestro:dimension",
+    "values": [
+      "minecraft:the_nether"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "priority": 10,
+  "layer": "underscore",
+  "sound_event": "terraria:music.overworld_night",
+  "condition": {
+    "type": "maestro:day_cycle",
+    "is_night": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "priority": 50,
+  "layer": "underscore",
+  "sound_event": "terraria:music.underground_jungle",
+  "condition": {
+    "type": "maestro:biome",
+    "values": [
+      "minecraft:lush_caves"
+    ]
+  }
+}

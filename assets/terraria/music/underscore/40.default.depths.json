@@ -1,0 +1,9 @@
+{
+  "priority": 40,
+  "layer": "underscore",
+  "sound_event": "terraria:music.alternate_underground",
+  "condition": {
+    "type": "maestro:height",
+    "below": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "priority": 90,
+  "layer": "encounter",
+  "sound_event": "terraria:music.journeys_end",
+  "condition": {
+    "type": "maestro:screen",
+    "kind": "credits"
+  }
+}

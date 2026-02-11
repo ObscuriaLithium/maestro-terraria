@@ -1,0 +1,218 @@
+{
+  "music.overworld_day": {
+    "sounds": [
+      {
+        "name": "terraria:overworld_day",
+        "stream": true
+      },
+      {
+        "name": "terraria:alternate_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld_night": {
+    "sounds": [
+      {
+        "name": "terraria:overworld_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.desert": {
+    "sounds": [
+      {
+        "name": "terraria:desert",
+        "stream": true
+      }
+    ]
+  },
+  "music.jungle_day": {
+    "sounds": [
+      {
+        "name": "terraria:jungle_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.jungle_night": {
+    "sounds": [
+      {
+        "name": "terraria:jungle_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.underground_desert": {
+    "sounds": [
+      {
+        "name": "terraria:underground_desert",
+        "stream": true
+      }
+    ]
+  },
+  "music.underground_jungle": {
+    "sounds": [
+      {
+        "name": "terraria:underground_jungle",
+        "stream": true
+      }
+    ]
+  },
+  "music.town_day": {
+    "sounds": [
+      {
+        "name": "terraria:town_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.town_night": {
+    "sounds": [
+      {
+        "name": "terraria:town_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.rain": {
+    "sounds": [
+      {
+        "name": "terraria:rain",
+        "stream": true
+      }
+    ]
+  },
+  "music.snow": {
+    "sounds": [
+      {
+        "name": "terraria:snow",
+        "stream": true
+      }
+    ]
+  },
+  "music.sandstorm": {
+    "sounds": [
+      {
+        "name": "terraria:sandstorm",
+        "stream": true
+      }
+    ]
+  },
+  "music.boss": {
+    "sounds": [
+      {
+        "name": "terraria:boss_1",
+        "stream": true
+      },
+      {
+        "name": "terraria:boss_2",
+        "stream": true
+      }
+    ]
+  },
+  "music.boss_3": {
+    "sounds": [
+      {
+        "name": "terraria:boss_3",
+        "stream": true
+      }
+    ]
+  },
+  "music.moon_lord": {
+    "sounds": [
+      {
+        "name": "terraria:moon_lord",
+        "stream": true
+      }
+    ]
+  },
+  "music.space_night": {
+    "sounds": [
+      {
+        "name": "terraria:space_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.underworld": {
+    "sounds": [
+      {
+        "name": "terraria:underworld",
+        "stream": true
+      }
+    ]
+  },
+  "music.dungeon": {
+    "sounds": [
+      {
+        "name": "terraria:dungeon",
+        "stream": true
+      }
+    ]
+  },
+  "music.underground_crimson": {
+    "sounds": [
+      {
+        "name": "terraria:underground_crimson",
+        "stream": true
+      }
+    ]
+  },
+  "music.underground_corruption": {
+    "sounds": [
+      {
+        "name": "terraria:underground_corruption",
+        "stream": true
+      }
+    ]
+  },
+  "music.underground": {
+    "sounds": [
+      {
+        "name": "terraria:underground",
+        "stream": true
+      }
+    ]
+  },
+  "music.alternate_underground": {
+    "sounds": [
+      {
+        "name": "terraria:alternate_underground",
+        "stream": true
+      }
+    ]
+  },
+  "music.ocean_day": {
+    "sounds": [
+      {
+        "name": "terraria:ocean_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.ocean_night": {
+    "sounds": [
+      {
+        "name": "terraria:ocean_night",
+        "stream": true
+      }
+    ]
+  },
+  "music.journeys_beginning": {
+    "sounds": [
+      {
+        "name": "terraria:journeys_beginning",
+        "stream": true
+      }
+    ]
+  },
+  "music.journeys_end": {
+    "sounds": [
+      {
+        "name": "terraria:journeys_end",
+        "stream": true
+      }
+    ]
+  }
+}

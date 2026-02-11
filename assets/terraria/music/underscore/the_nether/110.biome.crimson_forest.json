@@ -1,0 +1,11 @@
+{
+  "priority": 110,
+  "layer": "underscore",
+  "sound_event": "terraria:music.underground_crimson",
+  "condition": {
+    "type": "maestro:biome",
+    "values": [
+      "minecraft:crimson_forest"
+    ]
+  }
+}

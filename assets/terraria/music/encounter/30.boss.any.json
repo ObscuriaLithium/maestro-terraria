@@ -1,0 +1,9 @@
+{
+  "priority": 30,
+  "layer": "encounter",
+  "sound_event": "terraria:music.boss",
+  "condition": {
+    "type": "maestro:boss_event",
+    "value": true
+  }
+}
