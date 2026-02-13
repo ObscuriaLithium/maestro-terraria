@@ -19,9 +19,9 @@ The pack features unique music across the Overworld, The Nether, and The End, wi
 ### Advanced Usage Example
 Maestro: Terraria can also serve as a reference implementation for developing your own music packs with Maestro. The project demonstrates advanced use of track priorities, layered orchestration and composite conditions working together in a real production setup.
 
-# Good to Know
-
 <br>
+
+# Good to Know
 
 ### Requires Maestro
 Maestro: Overture is a music resource pack and requires the
